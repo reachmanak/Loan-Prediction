@@ -3,7 +3,7 @@
 ### [Assignment](assignment.md)
 
 ## Project/Goals
-To bulid a loan estimator model for deployment. This project is elping us predict if loans should be provided or not.
+To bulid a loan estimator model for deployment. This project is helped us predict if loans should be provided or not to customers
 
 ## Hypothesis
 • Salary: Applicant with high income should have more chances of loan approval.
