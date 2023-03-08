@@ -21,12 +21,12 @@ Had to check the dependency of variable on loan status(target). Made multiple ch
 
 
 ## Process
-(fill in what you did during EDA, cleaning, feature engineering, modeling, deployment, testing)
+
 ### EDA: Had to check the dependency of variable on loan status(target). Made multiple charts and plots to understand the distribution of data. Filled in missing values through median and mode. 
 ### Made few more features to explore te data and dependency. Divided the data into train and test datasets to build logistic regression, random forest, and decision tree model. Tuned hypermeters to get better accuracy
 
 ## Results/Demo
-(fill in your model's performance, details about the API you created, and (optional) a link to an live demo)
+had best results with logistic regression of 78% accuracy.
 
 ## Challanges 
 Deployment of model through flask and writing JSON code for prediction
