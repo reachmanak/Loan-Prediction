@@ -1,7 +1,3 @@
-# Mini-project IV
-
-### [Assignment](assignment.md)
-
 ## Project/Goals
 To bulid a loan estimator model for deployment. This project is helped us predict if loans should be provided or not to customers
 
@@ -28,9 +24,7 @@ Had to check the dependency of variable on loan status(target). Made multiple ch
 ## Results/Demo
 had best results with logistic regression of 78% accuracy.
 
-## Challanges 
-Deployment of model through flask and writing JSON code for prediction
+Tried Random Forest and Dcision Tree too
+Deployment of model through flask and wrote Json Code for Prediction
 
-## Future Goals
-Build another model with XGboost with better results
-(what would you do if you had more time? are there any potential issues/biases with your model/use case?)
+used Gridsearch for hypertuning of parameters
